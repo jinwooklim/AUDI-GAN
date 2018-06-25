@@ -1,0 +1,9 @@
+__pycache__/
+model/
+source/
+train/
+test/
+result/
+png/
+backup/
+.idea/
